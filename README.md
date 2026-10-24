@@ -14,7 +14,7 @@ Responsive portfolio built with plain HTML, CSS, and JavaScript for GitHub Pages
 3. Upload the **contents** of this folder, ensuring `index.html` is in the repository root.
 4. Open **Settings → Pages**.
 5. Under **Build and deployment**, select **Deploy from a branch**, branch `main`, folder `/(root)`, then Save.
-6. Wait for the deployment and open `https://M-Junaid-Iqbal-0.github.io/`.
+6. Wait for the deployment and open `https://M-Junaid-Iqbal-0.github.io/My-Portfolio/`.
 
 ## Profile links
 GitHub and LinkedIn links are configured from the URLs provided. Replace the project GitHub link with the exact repository URL once that repo is public.
